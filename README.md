@@ -1,4 +1,4 @@
-![screenshot-1701865335741](https://github.com/0xazr/Jarkom-Modul-4-IT29-2023/assets/54212814/b4ea0039-d822-4632-bddd-3761ac2f6933)# Jarkom Modul 4 | IT29 | 2023
+# Jarkom Modul 4 | IT29 | 2023
 - M. Azril Fathoni (5027211002)
 - Ridho Husni Indrawan (5027211043)
 
